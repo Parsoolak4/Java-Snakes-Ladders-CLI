@@ -124,11 +124,10 @@ Want to make the game even better? Here's how:
 
 ## 👨‍💻 Author
 
-Created with 🎲 by Parsa Ghadimi (40203370)
+Created with 🎲 by Parsa Ghadimi 
 
 ## 📜 License
 
 This project is available for educational purposes and learning reference. Have fun learning! 🎉
 
 ---
-Made with ❤️ and ☕
